@@ -207,4 +207,3 @@ output = {
 with open("jobs.json", "w", encoding="utf-8") as file:
     json.dump(output, file, indent=4)
 
-print(jobs_counter)
