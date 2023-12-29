@@ -1,0 +1,29 @@
+{
+    "date": "2023-12-29 16:22:14",
+    "jobs": [
+        {
+            "posted_at": null,
+            "title": "Junior Python Developer (Remote Internship - IT)",
+            "function": null,
+            "company_name": null,
+            "location": null,
+            "apply_link": null,
+            "applicants": null,
+            "job_type": null,
+            "description": null,
+            "seniority_level": null
+        },
+        {
+            "posted_at": null,
+            "title": "",
+            "function": null,
+            "company_name": null,
+            "location": null,
+            "apply_link": null,
+            "applicants": null,
+            "job_type": null,
+            "description": null,
+            "seniority_level": null
+        }
+    ]
+}

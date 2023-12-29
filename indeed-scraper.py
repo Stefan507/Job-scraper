@@ -64,7 +64,6 @@ class IndeedScraper:
                 apply_link = None
                 pay = None
                 job_type = None
-                benefits = None
                 description = None
 
                 # close the google pop_up
